@@ -1,0 +1,6 @@
+node_modules
+.vscode
+*.config.js
+.webpack
+_warmup
+**/*.js
